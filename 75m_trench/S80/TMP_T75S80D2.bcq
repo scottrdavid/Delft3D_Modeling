@@ -1,0 +1,17 @@
+#   83                                                                            
+table-name          'QH-relation Downstream           for run: T75'               
+location            'Downstream          '                                        
+interpolation       'linear'                                                      
+parameter           'total discharge (t)                 ' unit      '[ m**3/s ]' 
+parameter           'water elevation (z)                 ' unit      '[   m    ]' 
+records-in-table        10                                                        
+   52.0000       7.30344                                                          
+   153.000       7.40174                                                          
+   287.000       7.50158                                                          
+   448.000       7.60231                                                          
+   634.000       7.70445                                                          
+   841.000       7.80684                                                          
+   1069.00       7.91019                                                          
+   1315.00       8.01364                                                          
+   1579.00       8.11761                                                          
+   1860.00       8.22199                                                          

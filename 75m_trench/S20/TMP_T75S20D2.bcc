@@ -1,0 +1,53 @@
+#   89                                                                                  
+table-name          'T-serie BCC Downstream          -sedimentmud          for run: T75'
+contents            'uniform   ' # at ends A&B of open boundary segment                 
+location            'Downstream          '                                              
+time-function       'non-equidistant'                                                   
+reference-time       20161113                                                           
+time-unit           'minutes'                                                           
+interpolation       'linear'                                                            
+parameter           'Time starting at ITDATE = 0.0       ' unit      '[   min  ]'       
+parameter           'sedimentmud          end A uniform  ' unit      '[    -   ]'       
+parameter           'sedimentmud          end B uniform  ' unit      '[    -   ]'       
+records-in-table         2                                                              
+          0.0000   0.00000       0.00000                                                
+      87840.0000   0.00000       0.00000                                                
+table-name          'T-serie BCC Downstream          -sedimentsand         for run: T75'
+contents            'uniform   ' # at ends A&B of open boundary segment                 
+location            'Downstream          '                                              
+time-function       'non-equidistant'                                                   
+reference-time       20161113                                                           
+time-unit           'minutes'                                                           
+interpolation       'linear'                                                            
+parameter           'Time starting at ITDATE = 0.0       ' unit      '[   min  ]'       
+parameter           'sedimentsand         end A uniform  ' unit      '[    -   ]'       
+parameter           'sedimentsand         end B uniform  ' unit      '[    -   ]'       
+records-in-table         2                                                              
+          0.0000   0.00000       0.00000                                                
+      87840.0000   0.00000       0.00000                                                
+table-name          'T-serie BCC Upstream            -sedimentmud          for run: T75'
+contents            'uniform   ' # at ends A&B of open boundary segment                 
+location            'Upstream            '                                              
+time-function       'non-equidistant'                                                   
+reference-time       20161113                                                           
+time-unit           'minutes'                                                           
+interpolation       'linear'                                                            
+parameter           'Time starting at ITDATE = 0.0       ' unit      '[   min  ]'       
+parameter           'sedimentmud          end A uniform  ' unit      '[    -   ]'       
+parameter           'sedimentmud          end B uniform  ' unit      '[    -   ]'       
+records-in-table         2                                                              
+          0.0000   0.00000       0.00000                                                
+      87840.0000   0.00000       0.00000                                                
+table-name          'T-serie BCC Upstream            -sedimentsand         for run: T75'
+contents            'uniform   ' # at ends A&B of open boundary segment                 
+location            'Upstream            '                                              
+time-function       'non-equidistant'                                                   
+reference-time       20161113                                                           
+time-unit           'minutes'                                                           
+interpolation       'linear'                                                            
+parameter           'Time starting at ITDATE = 0.0       ' unit      '[   min  ]'       
+parameter           'sedimentsand         end A uniform  ' unit      '[    -   ]'       
+parameter           'sedimentsand         end B uniform  ' unit      '[    -   ]'       
+records-in-table         2                                                              
+          0.0000   0.00000       0.00000                                                
+      87840.0000   0.00000       0.00000                                                

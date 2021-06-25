@@ -1,0 +1,14 @@
+#   83                                                                            
+table-name          'T-serie BCT Upstream             for run: T90'               
+contents            'uniform             ' # at ends A&B of open boundary segment 
+location            'Upstream            '                                        
+time-function       'non-equidistant'                                             
+reference-time       20161113                                                     
+time-unit           'minutes'                                                     
+interpolation       'linear'                                                      
+parameter           'Time starting at ITDATE = 0.0       ' unit      '[   min  ]' 
+parameter           'total discharge (t)  end A          ' unit      '[ m**3/s ]' 
+parameter           'total discharge (t)  end B          ' unit      '[ m**3/s ]' 
+records-in-table         2                                                        
+          0.0000   80.0000       999.999                                          
+      87840.0000   80.0000       999.999                                          

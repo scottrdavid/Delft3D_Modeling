@@ -1,0 +1,15 @@
+
+********************************************************************************
+***
+*** Deltares, FLOW2D3D Version 6.01.07.3574, Apr  2 2014, 11:35:11
+***           built from : https://svn.oss.deltares.nl/repos/delft3d/trunk
+***
+***           runid      : S8Tw90
+***           date,time  : 2017-02-20, 12:05:45
+***
+********************************************************************************
+
+*** MESSAGE Using UNESCO density formulation by default 
+*** MESSAGE Momentum solver cyclic method is specified 
+*** MESSAGE DRYFLP and DPSOPT both specified in MD-file. Using DPSOPT: MAX 
+*** MESSAGE Reading BC-hydrodynamic file s8.bcq 

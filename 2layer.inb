@@ -1,0 +1,14 @@
+[BedCompositionFileInformation]
+   FileCreatedBy    = Delft3D-FLOW-GUI, Version: 3.1804
+   FileCreationDate = 19-12-2003,  8:50:45
+   FileVersion      = 01.00  
+[Layer]
+	Type			 = volume fraction
+	Thick			 = 0.5
+	Fraction1		 = 1.0
+	Fraction2	     = 0.0
+[Layer]
+	Type			 = volume fraction
+	Thick			 = 8
+	Fraction1		 = 0.7
+	Fraction2        = 0.3

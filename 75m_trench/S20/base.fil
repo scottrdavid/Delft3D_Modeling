@@ -1,0 +1,47 @@
+Domain, Checked : Yes       
+     Grid                  : 1k_3_5k_75mtrenchgridrefined.grd
+     Grid enclosure        : 1k_3_5k_75mtrenchgridrefined.enc
+     Bathymetry            : S20T75.dep
+     Dry points            : none
+     Thin dams             : none
+
+Time frame, Checked : Yes       
+
+Processes, Checked : Yes       
+
+Initial conditions, Checked : Yes       
+
+Boundaries, Checked : No        
+     Boundary definitions  : boundaries.bnd
+     Astronomical flow conditions : none
+     Astronomical corrections : none
+     Harmonic flow conditions : none
+     QH-relation flow conditions : S20QH.bcq
+     Time series flow conditions : base.bct
+     Transport conditions  : transport_0.bcc
+
+Physical parameters, Checked : No        
+     Roughness coefficients : none
+     Hor. viscosity/diffusivity : none
+     Heat flux model data  : none
+     Sediment data         : base.sed
+     Morphology data       : MOR.mor
+     Uniform wind data     : none
+     Space varying wind data : none
+
+Numerical parameters, Checked : No        
+
+Operations, Checked : No        
+     Discharge definitions : none
+     Discharge data        : none
+     Dredging and dumping data : none
+
+Monitoring, Checked : No        
+     Observation points    : observations.obs
+     Drogues               : none
+     Cross-sections        : crosssections.crs
+
+Additional parameters, Checked : No        
+
+Output, Checked : No        
+     Fourier analysis data : none

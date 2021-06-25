@@ -1,0 +1,13 @@
+table-name           'Boundary Section : 1'
+contents             'Uniform             '
+location             'Upstream            '
+time-function        'non-equidistant'
+reference-time       20161113
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '                     unit '[min]'
+parameter            'total discharge (t)  end A'               unit '[m3/s]'
+parameter            'total discharge (t)  end B'               unit '[m3/s]'
+records-in-table     2
+ 0.0000000e+000  7.5500000E+02  9.9999900e+002
+ 8.7840000e+004  7.5500000E+02  9.9999900e+002

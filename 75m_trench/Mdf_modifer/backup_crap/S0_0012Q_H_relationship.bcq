@@ -1,0 +1,46 @@
+table-name           'Boundary Section : 2'
+contents             'Uniform             '
+location             'Downstream          '
+xy-function          'equidistant'
+interpolation        'linear'
+parameter            'total discharge (t)  end A'               unit '[m3/s]'
+parameter            'water elevation (z)  end B'               unit '[m]'
+records-in-table     38
+50	5.895
+75	5.919
+100	5.941
+125	5.961
+150	5.980
+175	5.998
+200	6.015
+225	6.032
+250	6.047
+275	6.063
+300	6.077
+325	6.092
+350	6.106
+375	6.120
+400	6.133
+425	6.146
+450	6.159
+475	6.171
+500	6.184
+525	6.196
+550	6.208
+575	6.220
+600	6.231
+625	6.243
+650	6.254
+675	6.265
+700	6.277
+725	6.287
+750	6.298
+775	6.309
+800	6.319
+825	6.330
+850	6.340
+875	6.351
+900	6.361
+925	6.371
+950	6.381
+975	6.391
